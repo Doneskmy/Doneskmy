@@ -1,4 +1,4 @@
-<img src="https://th.bing.com/th/id/OIP.471sTteeF1q8nrhm4fAUygHaHa?w=200&h=200&c=7&r=0&o=5&dpr=1.3&pid=1.7" width=25 >       Olá, eu sou o Felipe Moraes.
+<img src="https://th.bing.com/th/id/OIP.471sTteeF1q8nrhm4fAUygHaHa?w=200&h=200&c=7&r=0&o=5&dpr=1.3&pid=1.7" width=25 >ㅤㅤㅤOlá, eu sou o Felipe Moraes.
 
 - 🌱 Atualmente estudo Análise e Desenvolvimento de Sistemas no Ifsp.
 - 😄 Pronomes: Ele/Dele
