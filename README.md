@@ -14,3 +14,8 @@ You can click the Preview link to take a look at your changes.
 <div>
 Gmail de contato: moraesfelipe338@gmail.com
 </div>
+
+![Snake animation](https://github.com/doneskmy/doneskmy/blob/output/github-contribution-grid-snake.svg)
+
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repo&theme=react)](https://github.com/your-username/your-repo)
